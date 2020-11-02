@@ -7,6 +7,7 @@ A list of expected technology to be used in this assignment
 * JavaScript
 * Terminal
 * Git
+* Web Browser
 
 ## Assignment
 Using your knowledge of javascript basics, complete the provided methods to return the proper values. Use the browser Development Tools to run the commands
