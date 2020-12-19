@@ -11,7 +11,7 @@ function multiplication(num1, num2){
   return num1 * num2;
 }
 
-function division(num4, num2){
+function division(num1, num2){
   return  num1 / num2;
 
 }
@@ -77,5 +77,5 @@ function volumeRectangular(length, width, height){
 }
 
 function volumeCylinder(radius, height){
-  return -3.14 * radius * raius * height;
+  return -3.14 * radius * radius * height;
 }
